@@ -1,20 +1,84 @@
 {
-    "books":[
-        {
-            "title":"Alice's Adventures in Wonderland",
-            "author":"Lewis Carroll"
-        },
-        {
-            "title":"Frankenstein",
-            "author":"Mary Shelley"
-        },
-        {
-            "title":"Dracula",
-            "author":"Bram Stoker"
-        },
-        {
-            "title":"Moby-Dick",
-            "author":"Herman Melville"
-        }
-    ]
+  "books": [
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll"
+    },
+    {
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll"
+    },
+    {
+      "title": "Peter Pan",
+      "author": "J. M. Barrie"
+    },
+    {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum"
+    },
+    {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson"
+    },
+    {
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain"
+    },
+    {
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain"
+    },
+    {
+      "title": "The Time Machine",
+      "author": "H. G. Wells"
+    },
+    {
+      "title": "The Invisible Man",
+      "author": "H. G. Wells"
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H. G. Wells"
+    },
+    {
+      "title": "The Island of Doctor Moreau",
+      "author": "H. G. Wells"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde"
+    },
+    {
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson"
+    },
+    {
+      "title": "The Call of the Wild",
+      "author": "Jack London"
+    },
+    {
+      "title": "White Fang",
+      "author": "Jack London"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle"
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle"
+    }
+  ]
 }
